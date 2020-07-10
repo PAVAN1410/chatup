@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85329359631",
+    "firebase_url": "https://skype-clown.firebaseio.com",
+    "project_id": "skype-clown",
+    "storage_bucket": "skype-clown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85329359631:android:60a891cc8f15df158b047a",
+        "android_client_info": {
+          "package_name": "com.examp.skype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85329359631-n42e5shk2d8d9jqnc21dkcubv5hr5uap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.examp.skype",
+            "certificate_hash": "89e5e80f5cd7a46caa765a46a0adfab75cd763df"
+          }
+        },
+        {
+          "client_id": "85329359631-f9b6oggga8gd0rqllhekmcc8tgic7aem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpn3ke92cwhbhPd8iMg9izKn5XDhE7T8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85329359631-f9b6oggga8gd0rqllhekmcc8tgic7aem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
