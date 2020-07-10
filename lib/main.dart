@@ -45,8 +45,7 @@ class _MyAppState extends State<MyApp> {
               future: _repository.getCurrrentUser(),
               builder: (context,AsyncSnapshot<FirebaseUser> snapshot){
                 if(snapshot.hasData){
-                  print('++++++++++++++++++++++++++++++++++++++++++++++')
-;                  print('++++++++++++++++++ ${snapshot.data.photoUrl}');
+                  
                   return HomeScreen();
                 }
                 else{
